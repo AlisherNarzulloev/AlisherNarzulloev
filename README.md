@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlisherNarzulloev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 👨‍💻 Teaching assistant at @ilmhona
 - 📫 How to reach me via telegram @avixon
 
 <!---
