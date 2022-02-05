@@ -1,5 +1,7 @@
 <h1>👋 Hi, I’m @AlisherNarzulloev</h1>
 
+<h3>Little man, with big plan 🍀</h3>
+
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/1a251d2d1a0c14e0fe71d8366b14ef97e2356630/files/dino.gif"><img src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/1a251d2d1a0c14e0fe71d8366b14ef97e2356630/files/dino.gif" alt="Bored" title="Bored!" style="max-width: 100%;"></a>
 
 <ul>
