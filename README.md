@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @AlisherNarzulloev</h1>
+<h1>👋 Hi, I’m Alisher Narzulloev</h1>
 
 <h3>Little man, with big plan 🍀</h3>
 
