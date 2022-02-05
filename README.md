@@ -17,16 +17,16 @@
 
 
 <p>🙋 Contact Me</p>
-<a href="mailto:alishernarzulloev@yandex.com">
+<a target="_blank" href="mailto:alishernarzulloev@yandex.com">
   <img align="left" alt="Mail " width="21px" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/f622018a0931243cf494b9053b87acc2a0cbd23d/files/mail.png" style="width: 2rem">
 </a>
-<a href="https://www.linkedin.com/in/alishernarzulloev/">
+<a target="_blank" href="https://www.linkedin.com/in/alishernarzulloev/">
   <img align="left" alt="Alisher Narzulloev Linkdin" width="2rem" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/f622018a0931243cf494b9053b87acc2a0cbd23d/files/linkedin.svg" style="width: 2rem;">
 </a> 
-<a href="https://www.facebook.com/narzulloev.alisher">
+<a target="_blank" href="https://www.facebook.com/narzulloev.alisher">
   <img align="left" alt="Alisher Narzulloev Facebook" width="21px" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/f622018a0931243cf494b9053b87acc2a0cbd23d/files/facebook.svg" style="width: 2rem;">
 </a> 
-<a href="https://www.instagram.com/av1xon/">
+<a target="_blank" href="https://www.instagram.com/av1xon/">
   <img align="left" alt="Alisher Narzulloev Facebook" width="21px" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/1a251d2d1a0c14e0fe71d8366b14ef97e2356630/files/instagram.svg" style="width: 2rem;">
 </a> 
 
