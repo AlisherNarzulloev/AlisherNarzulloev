@@ -8,7 +8,7 @@
   <li>👨‍💼 Currently working as a teaching assistant <a href="https://www.linkedin.com/company/ilmhona/mycompany/">@ilmhona</a></li>
   <li>🏢 Manager at P.I.C. (2019 - present)</li>
   <li>🌱 There is no limit to perfection</li>
-  <li>🙌 Practicing Bootstrap, Tailwind, JS, React</li>
+  <li>🙌 Practicing Bootstrap, Tailwind, JS, React, C++</li>
   <li>
 💬 Ask me about who am i going to be</li>
 </ul>
