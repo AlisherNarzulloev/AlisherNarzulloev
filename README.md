@@ -16,7 +16,7 @@
 
 
 
-<p>🙋 Contact</p>
+<p>🙋 Contact me</p>
 <a href="mailto:alishernarzulloev@yandex.com" target="_blank">
   <img align="left" alt="Mail " width="21px" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/f622018a0931243cf494b9053b87acc2a0cbd23d/files/mail.png" style="width: 2rem">
 </a>
