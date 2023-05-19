@@ -8,7 +8,7 @@
   <li>👨‍💼 React Developer at <a href="https://www.linkedin.com/company/ilmhona/mycompany/">@ilmhona</a></li>
   <li>👨‍💼 Nuxt Developer at <a href="https://www.instagram.com/megafontj/">@megafontj</a></li>
   <li>🌱 There is no limit to perfection</li>
-  <li>🙌 Practicing Bootstrap, Tailwind, JS, React, C++</li>
+  <li>🙌 Practicing React, Nuxt 3, Vue 3, JS, Tailwind, Material UI, Ant Design, C++</li>
   <li>
 💬 Ask me about who am i going to be</li>
 </ul>
