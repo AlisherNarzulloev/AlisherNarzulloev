@@ -22,7 +22,7 @@
   <img align="left" alt="Linkdin" width="2rem" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/f622018a0931243cf494b9053b87acc2a0cbd23d/files/linkedin.svg" style="width: 2rem;">
 </a> 
 <a href="https://t.me/avixon" target="_blank">
-  <img align="left" alt="Telegram" width="2rem" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/1a251d2d1a0c14e0fe71d8366b14ef97e2356630/files/telegram.svg" style="width: 2rem;">
+  <img align="left" alt="Telegram" width="2rem" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/c6b438a7f1c7cf0fa405632654ed174129240cef/files/telegram.svg" style="width: 2rem;">
 </a> 
 <a href="https://www.instagram.com/av1xon/" target=”_blank”>
   <img align="left" alt="Instagram" width="2rem" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/1a251d2d1a0c14e0fe71d8366b14ef97e2356630/files/instagram.svg" style="width: 2rem;">
