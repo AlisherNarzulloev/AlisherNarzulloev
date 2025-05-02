@@ -6,7 +6,7 @@
 
 <ul>
   <li>🌱 There is no limit to perfection</li>
-  <li>🙌 Practicing React, Nuxt 3, Vue 3, JS, Tailwind, Material UI, Ant Design, C++</li>
+  <li>🙌 Practicing TypeScript, React, NextJS, Nuxt 3, Vue 3, JS, Tailwind, Material UI</li>
   <li>
 💬 Ask me about who am i going to be</li>
 </ul>
@@ -16,19 +16,14 @@
 
 <p>🙋 Contact me</p>
 <a href="mailto:alishernarzylloev@gamil.com" target="_blank">
-  <img align="left" alt="Mail " width="21px" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/f622018a0931243cf494b9053b87acc2a0cbd23d/files/mail.png" style="width: 2rem">
+  <img align="left" alt="Mail" width="2rem" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/f622018a0931243cf494b9053b87acc2a0cbd23d/files/mail.png" style="width: 2rem">
 </a>
 <a href="https://www.linkedin.com/in/alishernarzulloev/" target="_blank">
-  <img align="left" alt="Alisher Narzulloev Linkdin" width="2rem" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/f622018a0931243cf494b9053b87acc2a0cbd23d/files/linkedin.svg" style="width: 2rem;">
+  <img align="left" alt="Linkdin" width="2rem" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/f622018a0931243cf494b9053b87acc2a0cbd23d/files/linkedin.svg" style="width: 2rem;">
 </a> 
 <a href="https://t.me/avixon" target="_blank">
-  <img align="left" alt="Alisher Narzulloev Telegram" width="21px" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/1a251d2d1a0c14e0fe71d8366b14ef97e2356630/files/telegram.svg" style="width: 2rem;">
+  <img align="left" alt="Telegram" width="2rem" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/1a251d2d1a0c14e0fe71d8366b14ef97e2356630/files/telegram.svg" style="width: 2rem;">
 </a> 
 <a href="https://www.instagram.com/av1xon/" target=”_blank”>
-  <img align="left" alt="Alisher Narzulloev Instagram" width="21px" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/1a251d2d1a0c14e0fe71d8366b14ef97e2356630/files/instagram.svg" style="width: 2rem;">
+  <img align="left" alt="Instagram" width="2rem" src="https://github.com/AlisherNarzulloev/AlisherNarzulloev/blob/1a251d2d1a0c14e0fe71d8366b14ef97e2356630/files/instagram.svg" style="width: 2rem;">
 </a> 
-
-<!---
-AlisherNarzulloev/AlisherNarzulloev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
